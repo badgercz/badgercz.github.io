@@ -3,6 +3,7 @@ layout: post
 title:  "Jemný úvod do datové vědy"
 date:   2018-11-08 17:38:03 +0200
 excerpt_separator: <!--more-->
+tags: ["data science", "python", "jupyter", "uvod"]
 ---
 V tomto článku bych rád představil základní metody *web-scrapingu* a následného zpracování získaných dat pomocí nástroje `jupyter notebook`. Článek je určený pro programováním lehce políbené jedince a je prakticky zaměřený.
 
