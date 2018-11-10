@@ -25,7 +25,7 @@ facebook_username: pesek.jarda
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: badgercz/minima
 plugins:
   - jekyll-feed
 

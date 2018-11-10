@@ -3,9 +3,12 @@ layout: post
 title:  "Welcome to Jekyll boiz!"
 date:   2018-11-08 16:38:03 +0200
 categories: jekyll update
+excerpt_separator: <!--more-->
 ---
 
 Jak se mi kupí zajímavé informace o který bych se rád podělil, začal jsem přemýšlet o nějaké platformě, kde bych mohl tyto informace sdílet. 
+
+<!--more-->
 
 Při rozhodování, na jakém základě vystavit zamýšlený *blog* jsem měl několik požadavků:
 * jednoduché publikování
